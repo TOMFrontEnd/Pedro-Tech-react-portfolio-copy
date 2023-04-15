@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pedro-tech-react-portfolio-copy/static/css/main.a54753e3.css",
+    "main.js": "/pedro-tech-react-portfolio-copy/static/js/main.c3d9aa5d.js",
+    "static/js/787.fb771931.chunk.js": "/pedro-tech-react-portfolio-copy/static/js/787.fb771931.chunk.js",
+    "static/media/proj6.png": "/pedro-tech-react-portfolio-copy/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/proj5.jpg": "/pedro-tech-react-portfolio-copy/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj3.webp": "/pedro-tech-react-portfolio-copy/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/pedro-tech-react-portfolio-copy/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/pedro-tech-react-portfolio-copy/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/pedro-tech-react-portfolio-copy/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "index.html": "/pedro-tech-react-portfolio-copy/index.html",
+    "main.a54753e3.css.map": "/pedro-tech-react-portfolio-copy/static/css/main.a54753e3.css.map",
+    "main.c3d9aa5d.js.map": "/pedro-tech-react-portfolio-copy/static/js/main.c3d9aa5d.js.map",
+    "787.fb771931.chunk.js.map": "/pedro-tech-react-portfolio-copy/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54753e3.css",
+    "static/js/main.c3d9aa5d.js"
+  ]
+}
